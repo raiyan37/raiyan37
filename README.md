@@ -1,6 +1,6 @@
-### 👋 Hi, I'm Raiyan Haque!
+# 👋 Hi, I'm Raiyan Haque!
 
-# 💫 About Me:
+## 💫 About Me:
 • 🎓 I'm currently a second-year student studying Computer Engineering at University of Toronto.<br>• 💻 I love using programming to make clean architecture, performance, and real-life solutions<br>• 🧠 Interests: systems, embedded, full-stack, algorithms<br>• 🌱 Learning: AWS
 
 
